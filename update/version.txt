@@ -1,0 +1,8 @@
+{
+    "description":"",
+    "format":".lzma",
+    "main":"小强广告拦截.exe",
+    "updater":"小强广告拦截.exe",
+    "url":"https://xqad.github.io/xx/update",
+    "version":"1.0.0.01"
+}
