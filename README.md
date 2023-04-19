@@ -7,7 +7,7 @@
 
 [查看截图](https://s1.ax1x.com/2023/04/19/p9ki6Nn.png)
 
-[下载 7z格式](https://ddxy88.github.io/xx/%E5%B0%8F%E5%BC%BA%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA.7z)
+[下载 7z格式](https://xqad.github.io/xx/%E5%B0%8F%E5%BC%BA%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA.7z)
 
 ### 解压密码 123
 
